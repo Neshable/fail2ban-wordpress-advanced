@@ -9,6 +9,10 @@ _______________
 #### Total Exploits: XXX
 ____________________
 
+## Useful commands to search for malware first ##
+
+``grep -rnw '/path' -e 'FITNESS'`` 
+
 
 ## How To Use This Filter
 
